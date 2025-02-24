@@ -23,3 +23,10 @@ Edit
  ├── 📂 data/  # (Optional) Raw and processed datasets  
  ├── 📊 figures/  # (Optional) Saved visualizations  
 E-Commerce Sales Analysis is a data-driven project aimed at understanding sales trends, customer behavior, and product performance in an online marketplace. This analysis involves data cleaning, transformation, and visualization to extract meaningful insights that help improve business strategies. Using Python libraries like Pandas, NumPy, and Matplotlib, the project uncovers revenue patterns, seasonal trends, and customer purchasing habits. The findings from this analysis can assist businesses in making informed decisions to optimize sales, enhance customer engagement, and maximize profitability.
+
+![image](https://github.com/user-attachments/assets/0a6cc1bf-2a6a-4fc6-ba81-be19864d886c)
+![image](https://github.com/user-attachments/assets/5798084c-a7da-46e6-851f-931f6e2e56e1)
+![image](https://github.com/user-attachments/assets/808ac4e6-ecbd-4b85-beba-8f491290c32b)
+
+
+
